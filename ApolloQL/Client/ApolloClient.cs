@@ -41,6 +41,9 @@ namespace ApolloQL.Client
 
         #endregion
 
+        /// <summary>
+        /// Variable para httpclient
+        /// </summary>
         private readonly HttpClient _httpClient;
 
         #region Constructors
